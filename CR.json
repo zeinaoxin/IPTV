@@ -19,21 +19,6 @@
       "timeout": 10
     },
     {
-      "key": "JKUN资源站",
-      "name": "JKUN资源站",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://www.jkunzyapi.com/api.php/provide/vod/from/jkm3u8/at/xml/m3u8/"
-      },
-      "timeout": 10
-    },
-    {
       "key": "乐播资源网",
       "name": "乐播资源网",
       "type": 3,
@@ -44,7 +29,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "http://lbapiby.com/api.php/provide/vod/from/lbm3u8/at/m3u8/"
+        "api": "https://lbapi9.com/api.php/provide/vod/from/Feifei/lbm3u8/at/m3u8/"
       },
       "timeout": 10
     },
