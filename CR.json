@@ -9,7 +9,7 @@
   "sites": [
       {
       "key": "黄色仓库",
-      "name": "📷黄色仓库┃采集",
+      "name": "黄色仓库",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -24,7 +24,7 @@
     },
     {
       "key": "玉兔资源",
-      "name": "🎞️玉兔┃采集",
+      "name": "玉兔资源",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "JKUN资源站",
-      "name": "JKUN资源站┃采集",
+      "name": "JKUN资源站",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -49,6 +49,306 @@
       "ext": {
         "sp": "Caiji",
         "api": "https://jkunzyapi.com/api.php/provide/vod/from/jkm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "乐播资源网",
+      "name": "乐播资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "http://lbapiby.com/api.php/provide/vod/from/lbm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "精品x资源",
+      "name": "精品x资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://www.jingpinx.com/api.php/provide/vod/from/dplayer/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "155资源",
+      "name": "155资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://155api.com/api.php/provide/vod/from/155m3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "老色逼资源",
+      "name": "老色逼资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://apilsbzy1.com/api.php/provide/vod/from/laosebi/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "滴滴资源站",
+      "name": "滴滴资源站",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://api.ddapi.cc/api.php/provide/vod/from/didi/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "鲨鱼资源",
+      "name": "鲨鱼资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "奥斯卡资源",
+      "name": "奥斯卡资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://aosikazy.com/api.php/provide/vod/from/aosika/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "色猫资源",
+      "name": "色猫资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://caiji.semaozy.net/api.php/provide/vod/from/smzy/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "森林资源网",
+      "name": "森林资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://slapibf.com/api.php/provide/vod/from/slm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "奶香香资源",
+      "name": "奶香香资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://naixxzy.com/api.php/provide/vod/from/naixx/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "杏吧资源网",
+      "name": "杏吧资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://xingba111.com/api.php/provide/vod/from/s8m3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "CK百货资源",
+      "name": "CK百货资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://ckbh1.xyz/api.php/provide/vod/from/ckm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "桃花资源网",
+      "name": "桃花资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://thzy1.me/api.php/provide/vod/from/thm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "豆豆资源网",
+      "name": "豆豆资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://api.douapi.cc/api.php/provide/vod/from/doudou/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "大奶子资源",
+      "name": "大奶子资源",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "搜av资源网",
+      "name": "搜av资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://api.souavzyw.net/api.php/provide/vod/from/souav/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "香蕉资源网",
+      "name": "香蕉资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/from/xxibao/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "番茄资源网",
+      "name": "番茄资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://fqzy.me/api.php/provide/vod/from/fqm3u8/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "优优资源网",
+      "name": "优优资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://yytv1.cc/api.php/provide/vod/from/dplayer/at/m3u8/"
+      },
+      "timeout": 10
+    },
+	{
+      "key": "小鸡资源网",
+      "name": "小鸡资源网",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://api.xjzyapi.xyz/api.php/provide/vod/from/xjplayer/at/m3u8/"
       },
       "timeout": 10
     },
