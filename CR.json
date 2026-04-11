@@ -19,25 +19,6 @@
       "timeout": 10
     },
 	{
-      "key": "精品x资源",
-      "name": "精品x资源",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://www.jingpinx.com/api.php/provide/vod/from/dplayer/at/josn/m3u8/"
-		"categories": [
-                "人兽典藏",
-                "剧情故事"
-            ]
-      },
-      "timeout": 10
-    },
-	{
       "key": "155资源",
       "name": "155资源",
       "type": 3,
