@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml"
+        "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/?ac=list"
       },
       "timeout": 10
     },
