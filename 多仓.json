@@ -1,93 +1,101 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+
 {
-    "urls": [	
-		{
-            "url": "https://112851545820762112.abvod.cn/duo/config.bin",
-            "name": "🚀多多线路"
+    "urls": [
+        {
+            "url": "https://hub.glowp.xyz/https://raw.githubusercontent.com/zeinaoxin/IPTV/main/%E9%BB%98%E8%AE%A4%E6%BA%90.json",
+            "name": "👇孩儿她爹收集网络线路👇"
         },
         {
-            "url": "https://yydsys.cc.cd/config.bin",
-            "name": "🚀多多备用"
-        }, 		
-        {
-            "url": "https://www.252035.xyz/p/jsm.json",
-            "name": "🚀PG线路"
-        }, 				
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🚀饭太硬线路"
-        },          	
-        {
-            "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🚀真心线路"
-        }, 
-       {
-            "url": "http://ok213.top/tv",
-            "name": "🚀OK线路"
-        },		
-        {
-            "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
-            "name": "🚀东篱线路"
-        },	   
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小线路"
-        },	
-        {
-            "url": "https://code.onedev.io/vox/~raw/master/demo.json",
-            "name": "🚀vox线路"
-        }, 		
-        {
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "🚀老虎线路"
-        }, 	 		
-        {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🚀潇洒线路"
-        },				
-        {
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "🚀老虎线路"
-        },  		
-        {
-            "url": "http://肥猫.com",
-            "name": "🚀肥猫线路"
-        }, 
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "🚀摸鱼线路"
-        },		
-        {
-            "url": "https://fastgit.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀南风线路"
-        }, 		 
-        {
-            "url": "http://hb.小虎斑.site:25252/仅供测试",
-            "name": "🚀虎斑线路"
-        }, 
-        {
-            "url": "http://miqk.cc/小米/DEMO.json",
-            "name": "🚀小米线路"
-        }, 		 	
-        {
-            "url":"http://mytv6688.xyz/aowu/config",
-            "name": "🚀嗷呜线路"
-        },	
-        {
-            "url": "https://android.lushunming.qzz.io/json/index.json",
-            "name": "🚀L佬线路"
-        }, 		
-        {
-            "url": "https://kong88.dpdns.org/4k.json",
-            "name": "🚀空空4K线路"
-        },			
-        {
-            "url":"https://fastgit.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀高天流云"
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=1",
+            "name": "🌟1饭太硬线路1🌟"
         },
         {
-            "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🚀巧记线路"
-        }		
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=2",
+            "name": "🌟2光歌云盘2🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=3",
+            "name": "🌟3盒子迷线路3🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=4",
+            "name": "🌟4肥猫线路4🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=5",
+            "name": "🌟5潇洒改版闪退5🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=6",
+            "name": "🌟6东篱线路6🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=7",
+            "name": "🌟7小米线路7🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=8",
+            "name": "🌟8王二线路8🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=9",
+            "name": "🌟9小虎斑.线路9🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=10",
+            "name": "🌟10摸鱼线路10🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=11",
+            "name": "🌟 11OK线路11🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=12",
+            "name": "🌟12分享线路12🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=13",
+            "name": "🌟13短剧线路13🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=14",
+            "name": "🌟14老虎线路14🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=15",
+            "name": "🌟15真心线路15🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=16",
+            "name": "🌟16菜妮丝线路16🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=17",
+            "name": "🌟17巧技线路17🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=18",
+            "name": "🌟18驸马线路18🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=19",
+            "name": "🌟19vox线路19🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=20",
+            "name": "🌟20南风线路20🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=21",
+            "name": "🌟21杰歌学习21🌟"
+        },
+        {
+            "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/apib.php?id=22",
+            "name": "🌟网络收集测试用🌟"
+        },
+        {
+            "url": "clan://localhost/tvbox/cache/888.html",
+            "name": "🌟孩儿她爹本地包专用🌟"
+        }
     ]
 }
