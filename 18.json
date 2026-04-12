@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://www.jkunzyapi.com/api.php/provide/vod/"
+        "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/"
       },
       "timeout": 10
     },
