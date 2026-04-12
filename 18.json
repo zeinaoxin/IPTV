@@ -4,8 +4,8 @@
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
       {
-      "key": "无水印资源网",
-      "name": "无水印资源网",
+      "key": "乐播资源网",
+      "name": "乐播资源网",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/"
+        "api": "https://lbapi9.com/api.php/provide/vod/at/"
       },
       "timeout": 10
     },
