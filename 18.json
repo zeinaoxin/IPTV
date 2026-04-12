@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://jkunzyapi.com/api.php/provide/vod/ac/list?format=json&app=okyspro"
+        "api": "https://jkunzyapi.com/api.php/provide/vod/?format=json&client=box"
       },
       "timeout": 10
     },
