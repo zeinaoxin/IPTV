@@ -1,5 +1,5 @@
 {
-  "urls": [
+  "影视仓多线接口": [
     {
       "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=孩儿她爹",
       "name": "👇孩儿她爹收集网络线路👇"
@@ -95,15 +95,10 @@
     {
       "url": "clan://localhost/tvbox/cache/888.html",
       "name": "🌟孩儿她爹本地包专用🌟"
-    },
-    {
-      "url": "https://raw.bgithub.xyz/CCSH/IPTV/refs/heads/main/live.m3u",
-      "name": "IPTV直播源",
-      "type": 3,
-      "ext": {
-        "format": "m3u",
-        "live": true
-      }
     }
-  ]
+  ],
+  "直播源": {
+    "url": "https://raw.bgithub.xyz/CCSH/IPTV/refs/heads/main/live.m3u",
+    "name": "IPTV直播源"
+  }
 }
