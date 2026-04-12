@@ -4,8 +4,8 @@
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
       {
-      "key": "jkun资源网",
-      "name": "jkun资源网",
+      "key": "索尼资源网",
+      "name": "索尼资源网",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://jkunzyapi.com/api.php/provide/vod/?format=json&client=box"
+        "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml"
       },
       "timeout": 10
     },
