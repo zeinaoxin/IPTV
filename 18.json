@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xmlsea/"
+        "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/"
       },
       "timeout": 10
     },
