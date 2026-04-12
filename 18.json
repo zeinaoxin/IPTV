@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Caiji",
-        "api": "https://lbapi9.com/api.php/provide/vod/at/"
+        "api": "https://lbapi9.com/api.php/provide/vod/at/json/"
       },
       "timeout": 10
     },
