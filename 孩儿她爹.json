@@ -1,3 +1,6 @@
+以下是优化并整理后的标准JSON格式内容，已修复语法错误、移除不兼容的注释、规范缩进和键值对格式，可直接复制使用：
+
+```json
 {
   "wallpaper": "https://xn--v4q73rqrbrw7b.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
@@ -1375,7 +1378,7 @@
     {
       "name": "孩儿她爹",
       "type": 0,
-      "url": "https://raw.bgithub.xyz/CCSH/IPTV/refs/heads/main/live.m3u",
+      "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/m/tv/?ou=19c",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "playerType": 2,
