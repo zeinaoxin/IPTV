@@ -1,5 +1,5 @@
 {
-  "影视仓多线接口": [
+  "urls": [
     {
       "url": "https://xn--v4q73rqrbrw7b.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=孩儿她爹",
       "name": "👇孩儿她爹收集网络线路👇"
@@ -95,10 +95,150 @@
     {
       "url": "clan://localhost/tvbox/cache/888.html",
       "name": "🌟孩儿她爹本地包专用🌟"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+      "name": "CCTV1"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
+      "name": "CCTV2"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
+      "name": "CCTV3"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
+      "name": "CCTV4"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+      "name": "CCTV5"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+      "name": "CCTV5+"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
+      "name": "CCTV6"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
+      "name": "CCTV7"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
+      "name": "CCTV8"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
+      "name": "CCTV9"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
+      "name": "CCTV10"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
+      "name": "CCTV11"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+      "name": "CCTV12"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
+      "name": "CCTV13"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8",
+      "name": "CCTV14"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
+      "name": "CCTV15"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+      "name": "CCTV16"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8",
+      "name": "CCTV17"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+      "name": "风云剧场"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub",
+      "name": "兵器科技"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+      "name": "第一剧场"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+      "name": "央视台球"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+      "name": "风云足球"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+      "name": "高尔夫网球"
+    }，
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+      "name": "世界地理"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+      "name": "风云音乐"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+      "name": "女性时尚"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+      "name": "怀旧剧场"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+      "name": "央视文化精品"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+      "name": "卫生健康"
+    },
+    {
+      "url": "http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub",
+      "name": "电视指南"
+    },
+    {
+      "url": "http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=202604100000144858313519374073bddfdec3564df0a7&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260410000014&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=43.139.160.244&SecurityKey=20260410000014&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=20c1a5de0a227c586f94f08859f112d5&ddCalcu=52d0e2c11141a0f59d5e808a02f2479cf568",
+      "name": "老故事"
+    },
+    {
+      "url": "http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cnr/faxianzhilv/1000/index.m3u8?msisdn=202604120402063a67aa52942c4921ac7a8beff799a752&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260412040206&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=171.8.79.254&SecurityKey=20260412040206&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=674895bbff3d9ee0c11907b4002fe56d",
+      "name": "发现之旅"
+    },
+    {
+      "url": "http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85",
+      "name": "CCTV4K"
+    },
+    {
+      "url": "https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8",
+      "name": "CCTV8K"
+    },
+    {
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8",
+      "name": "CETV1"
     }
-  ],
-  "直播源": {
-    "url": "https://raw.bgithub.xyz/CCSH/IPTV/refs/heads/main/live.m3u",
-    "name": "IPTV直播源"
-  }
+  ]
 }
