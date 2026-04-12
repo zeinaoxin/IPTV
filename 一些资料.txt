@@ -1,0 +1,10 @@
+ "lives": [
+	{"name":"IPTV","type":0,"url":"https://raw.bgithub.xyz/CCSH/IPTV/refs/heads/main/live.m3u","playerType":2}
+    ],
+---------------------------------------------
+LOGO
+https://pic1.imgdb.cn/item/69db8ac6e972b74d78473225.png
+------------------------------------------------
+壁纸
+https://深色壁纸.xxooo.cf/
+-------------------------------------------
