@@ -13,11 +13,11 @@
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/"
   },
   "timeout": 15,
   "playerType": 0,
-  "format": "",
+  "format": "json",  // 关键！指定接口返回格式为JSON，让APP正确解析分类
   "uid": ""
 },
 	{
