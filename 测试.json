@@ -39,13 +39,13 @@
   "key": "辣椒资源",
   "name": "辣椒资源",
   "type": 1,
-  "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=class",
+  "api": "http://api.11bat.com/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list"
+    "api": "http://api.11bat.com/api.php/provide/vod/at/json/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
@@ -656,7 +656,7 @@
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
-    },
+    }，
     {
       "name": "毛驴",
       "hosts": [
