@@ -7,17 +7,17 @@
   "key": "乐播资源",
   "name": "乐播资源",
   "type": 1,
-  "api": "",
+  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/json/"
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
   },
-  "timeout": 15,
+  "timeout": 20,
   "playerType": 0,
-  "format": "json",  // 关键！指定接口返回格式为JSON，让APP正确解析分类
+  "format": "json",
   "uid": ""
 },
 	{
