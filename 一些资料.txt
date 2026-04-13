@@ -9,3 +9,22 @@ https://pic1.imgdb.cn/item/69db8ac6e972b74d78473225.png
 //壁纸
 https://深色壁纸.xxooo.cf/
 //-------------------------------------------
+对于不显示类别的采集网站
+{
+  "key": "乐播资源",
+  "name": "乐播资源",
+  "type": 1,
+  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+}
+//--------------------------------------------------------------------
