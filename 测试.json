@@ -36,6 +36,23 @@
   "uid": ""
 },
 {
+  "key": "鲨鱼资源",
+  "name": "鲨鱼资源",
+  "type": 1,
+  "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
+{
   "key": "老色逼资源站",
   "name": "老色逼资源站",
   "type": 1,
