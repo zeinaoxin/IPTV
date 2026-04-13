@@ -36,16 +36,16 @@
   "uid": ""
 },
 {
-  "key": "鲨鱼资源",
-  "name": "鲨鱼资源",
+  "key": "色猫资源",
+  "name": "色猫资源",
   "type": 1,
-  "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+  "api": "https://caiji.semaozy.net/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list"
+    "api": "https://caiji.semaozy.net/api.php/provide/vod/at/json/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
