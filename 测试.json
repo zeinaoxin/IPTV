@@ -4,20 +4,23 @@
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
       {
-  "key": "乐播资源网",
-  "name": "乐播资源网",
-  "type": 1,        // ✅ 修正为标准采集源类型
-  "api": "",        // ✅ 清空错误的内置接口
+  "key": "乐播资源",
+  "name": "乐播资源",
+  "type": 1,
+  "api": "",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "sp": "hsckm3u8",  // ✅ 修正为正确的采集器ID
-    // ✅ 替换*为真实完整域名（例：https://abc.com）
+    "sp": "hsckm3u8",
+    // ↓↓↓ 只改这一行！填你的真实https接口，别带*
     "api": "https://lbapi9.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/"
   },
-  "timeout": 10
+  "timeout": 15,
+  "playerType": 0,
+  "format": "",
+  "uid": ""
 },
 	{
       "key": "滴滴资源站",
