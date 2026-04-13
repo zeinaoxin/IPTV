@@ -13,7 +13,7 @@
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
+    "api": "http://lbapiby.com/api.php/provide/vod/at/xml/"
   },
   "timeout": 15,
   "playerType": 0,
