@@ -39,7 +39,7 @@
   "key": "鲨鱼资源",
   "name": "鲨鱼资源",
   "type": 1,
-  "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=class",
+  "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
