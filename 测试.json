@@ -3,23 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
-  {
-  "key": "乐播资源网",
-  "name": "乐播资源网",
-  "type": 1,
-  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
-  },
-  "timeout": 20,
-  "playerType": 0,
-  "format": "json",
-  "uid": ""
-},
       {
       "key": "黄色仓库",
       "name": "黄色仓库",
@@ -35,6 +18,23 @@
       },
       "timeout": 10
     },
+{
+  "key": "乐播资源",
+  "name": "乐播资源",
+  "type": 1,
+  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
@@ -588,7 +588,7 @@
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
-    }，
+    },
     {
       "name": "毛驴",
       "hosts": [
