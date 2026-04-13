@@ -20,23 +20,6 @@
   "format": "json",
   "uid": ""
 },
-    {
-  "key": "滴滴资源站",
-  "name": "滴滴资源站",
-  "type": 1,
-  "api": "https://api.ddapi.cc/api.php/provide/vod/at/json/?ac=class",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json/?ac=list"
-  },
-  "timeout": 20,
-  "playerType": 0,
-  "format": "json",
-  "uid": ""
-     },
       {
       "key": "黄色仓库",
       "name": "黄色仓库",
