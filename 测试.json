@@ -4,20 +4,21 @@
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
       {
-      "key": "360影视仓",
-      "name": "360影视仓",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://cj.lziapi.com/api.php/provide/vod/"
-      },
-      "timeout": 10
-    },
+  "key": "乐播资源网",
+  "name": "乐播资源网",
+  "type": 1,        // ✅ 修正为标准采集源类型
+  "api": "",        // ✅ 清空错误的内置接口
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "sp": "lbm3u8",  // ✅ 修正为正确的采集器ID
+    // ✅ 替换*为真实完整域名（例：https://abc.com）
+    "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8/at/m3u8/"
+  },
+  "timeout": 10
+},
 	{
       "key": "滴滴资源站",
       "name": "滴滴资源站",
