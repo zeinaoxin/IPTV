@@ -21,16 +21,16 @@
   "uid": ""
 },
     {
-  "key": "大地资源网",
-  "name": "大地资源网",
+  "key": "滴滴资源站",
+  "name": "滴滴资源站",
   "type": 1,
-  "api": "https://dadiapi.com/sea_api.php/provide/vod/at/json/?ac=class",
+  "api": "https://api.ddapi.cc/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://dadiapi.com/sea_api.php/provide/vod/at/json/?ac=list"
+    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
@@ -49,21 +49,6 @@
       "ext": {
         "sp": "Caiji",
         "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    },
-	{
-      "key": "滴滴资源站",
-      "name": "滴滴资源站",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://api.ddapi.cc/api.php/provide/vod/from/didi/at/m3u8/"
       },
       "timeout": 10
     },
@@ -620,7 +605,7 @@
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
-    },
+    }，
     {
       "name": "毛驴",
       "hosts": [
