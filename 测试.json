@@ -14,8 +14,8 @@
   "filterable": 1,
   "ext": {
     "sp": "hsckm3u8",
-    // ↓↓↓ 只改这一行！填你的真实https接口，别带*
-    "api": "https://lbapi9.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/"
+    // ↓↓↓ 仅修改这一行！标准接口，带分类返回，无*，纯HTTPS
+    "api": "https://lbapi9.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/?ac=class"
   },
   "timeout": 15,
   "playerType": 0,
