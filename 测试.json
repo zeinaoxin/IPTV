@@ -36,16 +36,16 @@
   "uid": ""
 },
 {
-  "key": "精品x资源网",
-  "name": "精品x资源网",
+  "key": "辣椒资源",
+  "name": "辣椒资源",
   "type": 1,
-  "api": "https://www.jingpinx.com/api.php/provide/vod/at/json/?ac=class",
+  "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
+    "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
@@ -656,7 +656,7 @@
       "script": [
         "document.getElementsByClassName('vjs-big-play-button')[0].click()"
       ]
-    }，
+    },
     {
       "name": "毛驴",
       "hosts": [
