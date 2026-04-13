@@ -4,17 +4,20 @@
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
       {
-  "name": "360影视仓",
-  "type": 1,
-  "api": "https://360zy.com/api.php/seaxml/vod/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "flag": "360zy", 
-    "type": "xml"
-  }
-}，
+      "key": "360影视仓",
+      "name": "360影视仓",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Caiji",
+        "api": "https://360zy.com/api.php/seaxml/vod/"
+      },
+      "timeout": 10
+    },
 	{
       "key": "滴滴资源站",
       "name": "滴滴资源站",
