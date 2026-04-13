@@ -13,9 +13,9 @@
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "sp": "lbm3u8",  // ✅ 修正为正确的采集器ID
+    "sp": "hsckm3u8",  // ✅ 修正为正确的采集器ID
     // ✅ 替换*为真实完整域名（例：https://abc.com）
-    "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8/at/m3u8/"
+    "api": "https://lbapi9.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/"
   },
   "timeout": 10
 },
