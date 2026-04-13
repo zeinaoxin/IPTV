@@ -36,16 +36,16 @@
   "uid": ""
 },
 {
-  "key": "辣椒资源",
-  "name": "辣椒资源",
+  "key": "155资源站",
+  "name": "155资源站",
   "type": 1,
-  "api": "https://apilj.com/api.php/provide/vod/at/json/",
+  "api": "https://155api.com/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list"
+    "api": "https://155api.com/api.php/provide/vod/at/json/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
