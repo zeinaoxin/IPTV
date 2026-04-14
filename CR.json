@@ -36,8 +36,8 @@
   "uid": ""
 },
 {
-  "key": "小鸡资源",
-  "name": "小鸡资源",
+  "key": "新极客资源_修复版",
+  "name": "新极客资源_修复版",
   "type": 1,
   "api": "https://api.xjzyapi.xyz/provide/vod?ac=list&at=json",
   "searchable": 1,
@@ -45,10 +45,11 @@
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://api.xjzyapi.xyz/provide/vod"
+    "api": "https://api.xjzyapi.xyz/provide/vod",
+    "parse": "https://api.xjzyapi.xyz/aplayer/player.html?autoplay=1&movurl="
   },
-  "timeout": 20,
-  "playerType": 0,
+  "timeout": 30,
+  "playerType": 1,
   "format": "json",
   "uid": ""
 },
