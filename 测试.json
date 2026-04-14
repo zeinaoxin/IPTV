@@ -36,8 +36,8 @@
   "uid": ""
 },
 {
-  "key": "鲨鱼资源_备用",
-  "name": "鲨鱼资源_备用",
+  "key": "鲨鱼资源",
+  "name": "鲨鱼资源",
   "type": 1,
   "api": "https://sybyapi.com/api.php/provide/vod/at/json/?ac=list",
   "searchable": 1,
