@@ -36,16 +36,16 @@
   "uid": ""
 },
 {
-  "key": "桃花资源",
-  "name": "桃花资源",
+  "key": "豆豆资源网",
+  "name": "豆豆资源网",
   "type": 1,
-  "api": "https://thzy1.me/api.php/provide/vod/at/json/?ac=class",
+  "api": "https://api.douapi.cc/api.php/provide/vod/at/json/?ac=class",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://thzy1.me/api.php/provide/vod/?ac=list"
+    "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list"
   },
   "timeout": 20,
   "playerType": 0,
