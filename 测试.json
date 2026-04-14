@@ -36,6 +36,23 @@
   "uid": ""
 },
 {
+  "key": "小鸡资源",
+  "name": "小鸡资源",
+  "type": 1,
+  "api": "https://api.xjzyapi.xyz/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://api.xjzyapi.xyz/provide/vod?at=xml&ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
+{
   "key": "香蕉资源网",
   "name": "香蕉资源网",
   "type": 1,
