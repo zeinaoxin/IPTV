@@ -36,16 +36,16 @@
   "uid": ""
 },
 {
-  "key": "鲨鱼资源_主线",
-  "name": "鲨鱼资源_主线",
+  "key": "鲨鱼资源_备用",
+  "name": "鲨鱼资源_备用",
   "type": 1,
-  "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list",
+  "api": "https://sybyapi.com/api.php/provide/vod/at/json/?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://shayuapi.com/api.php/provide/vod/at/json/"
+    "api": "https://sybyapi.com/api.php/provide/vod/at/json/"
   },
   "timeout": 20,
   "playerType": 0,
