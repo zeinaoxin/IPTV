@@ -36,6 +36,23 @@
   "uid": ""
 },
 {
+  "key": "香蕉资源网",
+  "name": "香蕉资源网",
+  "type": 1,
+  "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
+{
   "key": "豆豆资源网",
   "name": "豆豆资源网",
   "type": 1,
