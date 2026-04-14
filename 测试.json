@@ -45,7 +45,7 @@
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://api.xjzyapi.xyz/provide/vod?at=xml&ac=list"
+    "api": "https://api.xjzyapi.xyz/provide/vodvip/nil"
   },
   "timeout": 20,
   "playerType": 0,
