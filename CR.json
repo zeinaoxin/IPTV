@@ -39,19 +39,23 @@
   "key": "新极客资源_修复版",
   "name": "新极客资源_修复版",
   "type": 1,
-  "api": "https://api.xjzyapi.xyz/provide/vod?ac=list&at=json",
+  "api": "https://api.xjzyapi.xyz/provide/vod",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://api.xjzyapi.xyz/provide/vod",
-    "parse": "https://api.xjzyapi.xyz/aplayer/player.html?autoplay=1&movurl="
+    "play": "1",
+    "flag": "xjplayer",
+    "parse": ""
   },
-  "timeout": 30,
-  "playerType": 1,
+  "timeout": 15,
+  "playerType": 0,
   "format": "json",
-  "uid": ""
+  "uid": "",
+  "header": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
 },
 {
   "key": "鲨鱼资源",
