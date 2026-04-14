@@ -36,28 +36,6 @@
   "uid": ""
 },
 {
-  "key": "新极客资源_修复版",
-  "name": "新极客资源_修复版",
-  "type": 1,
-  "api": "https://api.xjzyapi.xyz/provide/vod",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-    "play": "1",
-    "flag": "xjplayer",
-    "parse": ""
-  },
-  "timeout": 15,
-  "playerType": 0,
-  "format": "json",
-  "uid": "",
-  "header": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-  }
-},
-{
   "key": "鲨鱼资源",
   "name": "鲨鱼资源",
   "type": 1,
