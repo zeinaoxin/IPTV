@@ -36,8 +36,25 @@
   "uid": ""
 },
 {
-  "key": "155资源_主线",
-  "name": "155资源_主线",
+  "key": "鲨鱼资源",
+  "name": "鲨鱼资源",
+  "type": 1,
+  "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://shayuapi.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
+{
+  "key": "155资源",
+  "name": "155资源",
   "type": 1,
   "api": "https://155api.com/api.php/provide/vod/at/json/?ac=list",
   "searchable": 1,
