@@ -39,14 +39,15 @@
   "key": "小鸡资源",
   "name": "小鸡资源",
   "type": 1,
-  "api": "https://api.xjzyapi.xyz/api.php/provide/vod/at/json/?ac=class",
+  "api": "https://api.xjzyapi.xyz/provide/vod?ac=class&at=json",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://api.xjzyapi.xyz/provide/vodvip/nil"
-  },
+    "api": "https://api.xjzyapi.xyz/provide/vod?ac=list&at=json"
+  }
+}
   "timeout": 20,
   "playerType": 0,
   "format": "json",
