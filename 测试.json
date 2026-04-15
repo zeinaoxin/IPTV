@@ -36,17 +36,19 @@
   "uid": ""
 },
 {
-  "key": "大地资源",
-  "name": "大地资源站",
-  "type": 1,
-  "api": "https://dadiapi.com/feifei5.php/provide/vod/at/json/?ac=class",
-  "ext": "https://dadiapi.com/api.php/provide/vod/at/json/?ac=list",
+  "key": "dadi",
+  "name": "大地资源",
+  "type": 3,
+  "api": "https://dadiapi.com/apple_m3u8.php?ac=class&at=json",
   "searchable": 1,
-  "quickSearch": 0,
+  "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
-  "playerType": 3,
+  "ext": {
+    "api": "https://dadiapi.com/apple_m3u8.php?ac=list&at=json"
+  },
   "timeout": 20,
+  "playerType": 0,
   "format": "json"
 },
 {
