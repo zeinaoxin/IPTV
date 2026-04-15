@@ -39,13 +39,13 @@
   "key": "dadi",
   "name": "大地资源",
   "type": 3,
-  "api": "https://dadiapi.com/apple_m3u8.php?ac=class&at=json",
+  "api": "http://ddkbo.com/apple_m3u8.php?ac=class&at=json",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-    "api": "https://dadiapi.com/apple_m3u8.php?ac=list&at=json"
+    "api": "http://ddkbo.com/apple_m3u8.php?ac=list&at=json"
   },
   "timeout": 20,
   "playerType": 0,
