@@ -1,4 +1,3 @@
-
 {
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://pic1.imgdb.cn/item/69db8ac6e972b74d78473225.png",
@@ -7,7 +6,7 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "🔊如果不能播放，请尽快联系【孩儿她爹】",
+            "name": "📢如果失效等候更新或者在线更新本地包防失效",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -59,11 +58,11 @@
                 ],
                 "url_key": "wogg1",
                 "threadinfo": {
-                    "chunksize": 480,
+                    "chunksize": 473,
                     "threads": 16
                 }
             }
-        }，
+        },
         {
             "key": "csp_woog2",
             "name": "🐲装歌｜4K弹幕",
@@ -82,7 +81,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 475,
+                    "chunksize": 465,
                     "threads": 16
                 }
             }
@@ -1288,7 +1287,7 @@
         {
             "name": "失败手动换",
             "type": "1",
-            "url": "https://by1.nxog.eu.org/jx.php?ou=19c&mz=0&url=",
+            "url": "https://by1.nxog.eu.org/jx.php?ou=19f&mz=0&url=",
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1298,17 +1297,17 @@
         {
             "name": "-关注-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=19c&mz=1&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=19f&mz=1&url="
         },
         {
             "name": "-装歌API-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=19c&mz=2&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=19f&mz=2&url="
         },
         {
             "name": "-公众号-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=19c&mz=3&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=19f&mz=3&url="
         },
         {
             "name": "装歌APP",
@@ -1372,8 +1371,16 @@
             "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
         }
     ],
-     "lives": [
-	{"name":"IPTV","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u","playerType":2}
+    "lives": [
+        {
+            "name": "如果失效等候更新或者在线更新本地包防失效",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        }
     ],
     "headers": [
         {
