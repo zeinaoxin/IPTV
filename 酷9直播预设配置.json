@@ -70,7 +70,7 @@
     "LIVE_JSONS": "https://ghfast.top/https://raw.githubusercontent.com/zeinaoxin/IPTV/main/%E9%85%B79%E9%A2%84%E7%9B%B4%E6%92%AD%E8%AE%BE%E9%85%8D%E7%BD%AE.json$东子的预设",
 
     "#20": "预置头部请求(默认勾选首个)，headers为json格式，多个使用双竖线||隔开，格式：地址$自定义名称",
-    "HEADERS_URLS": null,
+    "HEADERS_URLS": "https://ghfast.top/https://raw.githubusercontent.com/zeinaoxin/IPTV/main/%E9%85%B79%E9%A2%84%E7%9B%B4%E6%92%AD%E8%AE%BE%E9%85%8D%E7%BD%AE.json$东子的预设",
 
     "#21": "预置用户代理(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
     "USER_AGENTS": "OKhttp/1.31 || Mozilla/5.0 || SYTV/1.6$预置SYTV/1.6",
