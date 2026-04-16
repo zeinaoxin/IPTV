@@ -64,7 +64,7 @@
     "LIVE_URLS": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u$IPTV",
 
     "#19": "预置EPG URL(默认勾选首个)，多个使用双竖线||隔开，格式：地址$自定义名称",
-    "EPG_URLS": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml$IPTV",
+    "EPG_URLS": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml$IPTV||https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml.gz$IPTV",
 
     "#71": "预置JSON URL(默认不勾选)，多个使用双竖线||隔开，格式：地址$自定义名称",
     "LIVE_JSONS": "https://ghfast.top/https://raw.githubusercontent.com/zeinaoxin/IPTV/main/%E9%85%B79%E9%A2%84%E7%9B%B4%E6%92%AD%E8%AE%BE%E9%85%8D%E7%BD%AE.json$东子的预设",
