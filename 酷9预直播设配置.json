@@ -67,7 +67,7 @@
     "EPG_URLS": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml$IPTV",
 
     "#71": "预置JSON URL(默认不勾选)，多个使用双竖线||隔开，格式：地址$自定义名称",
-    "LIVE_JSONS": null,
+    "LIVE_JSONS": "https://ghfast.top/https://raw.githubusercontent.com/zeinaoxin/IPTV/main/%E9%85%B79%E9%A2%84%E7%9B%B4%E6%92%AD%E8%AE%BE%E9%85%8D%E7%BD%AE.json$东子的预设",
 
     "#20": "预置头部请求(默认勾选首个)，headers为json格式，多个使用双竖线||隔开，格式：地址$自定义名称",
     "HEADERS_URLS": null,
@@ -76,7 +76,7 @@
     "USER_AGENTS": "OKhttp/1.31 || Mozilla/5.0 || SYTV/1.6$预置SYTV/1.6",
 
     "#22": "解码方式；0=系统解码，1=IJK硬解，2=IJK软解，3=EXO硬解，4=EXO软解",
-    "PLAY_TYPE": 1,
+    "PLAY_TYPE": 3,
 
     "#23": "画面比例；0=默认，1=16:9，2=4:3，3=填充，4=原始，6=裁剪",
     "PLAY_SCALE": 3,
@@ -85,7 +85,7 @@
     "LIVE_CONNECT_TIMEOUT": 1,
 
     "#25": "EPG解析方式；0=百川/DIYP，1=超级TV，2=XmlTV",
-    "EPGTYPE_SELECT": 0,
+    "EPGTYPE_SELECT": 2,
 
     "#26": "显示时间；true=显示，false=隐藏",
     "LIVE_SHOW_TIME": true,
@@ -151,7 +151,7 @@
     "PLAY_BACK_TYPE": 0,
 
     "#47": "断线重连；0=关闭重连，1=1秒后重连，2=3秒后重连，3=5秒后重连，4=10秒后重连，5=20秒后重连",
-    "RECONNECT_INDEX": 0,
+    "RECONNECT_INDEX": 3,
 
     "#48": "EXO隧道模式；true=开启，false=关闭",
     "EXO_TUNNELING_SELECT": false,
