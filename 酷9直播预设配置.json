@@ -6,7 +6,7 @@
     "loginPng": "/storage/emulated/0/酷9/bg.png",
 
     "#2": "退出图片路径，支持本地和网络",
-    "exitPng": "https://ExitImageUrl",
+    "exitPng": "https://pic1.imgdb.cn/item/69db8ac6e972b74d78473225.png",
 
     "#3": "app升级配置文件路径",
     "updateUrl": "http://ku9/app/update.json",
