@@ -1375,7 +1375,7 @@
         {
             "name": "如果失效等候更新或者在线更新本地包防失效",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/zeinaoxin/IPTV-LIVE/main/live.m3u",
+            "url": "https://wget.la/https://raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
             "playerType": 2,
