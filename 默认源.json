@@ -65,7 +65,7 @@
         },
         {
             "key": "csp_woog2",
-            "name": "🐲装歌｜4K弹幕",
+            "name": "🐲装歌｜4K弹幕"，
             "type": 3,
             "changeable": "0",
             "api": "csp_Duopan",
@@ -826,7 +826,7 @@
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
                 "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"
-            },
+            }，
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1018,7 +1018,7 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
+        }，
         {
             "key": "武术",
             "name": "🧒武术┃哔哩",
@@ -1354,7 +1354,7 @@
                     "referer": "https://jiejie.uk/"
                 }
             }
-        },
+        }，
         {
             "name": "线路5",
             "type": 0,
@@ -1375,7 +1375,7 @@
         {
             "name": "如果失效等候更新或者在线更新本地包防失效",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u",
+            "url": "https://wget.la/https://raw.githubusercontent.com/zeinaoxin/IPTV-LIVE/main/live.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
             "playerType": 2,
