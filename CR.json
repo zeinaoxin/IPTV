@@ -41,18 +41,20 @@
       {
       "key": "黄色仓库",
       "name": "黄色仓库",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    },
+      "type": 1,
+  "api": "https://hsckzy888.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://hsckzy888.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 {
   "key": "鲨鱼资源",
   "name": "鲨鱼资源",
@@ -156,23 +158,6 @@
   "uid": ""
 },
 {
-  "key": "色猫资源",
-  "name": "色猫资源",
-  "type": 1,
-  "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-    "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
-  },
-  "timeout": 20,
-  "playerType": 0,
-  "format": "json",
-  "uid": ""
-},
-{
   "key": "老色逼资源站",
   "name": "老色逼资源站",
   "type": 1,
@@ -226,34 +211,37 @@
 	{
       "key": "奥斯卡资源",
       "name": "奥斯卡资源",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://aosikazy.com/api.php/provide/vod/from/aosika/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://aosikazy1.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://aosikazy1.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "奶香香资源",
       "name": "奶香香资源",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://naixxzy.com/api.php/provide/vod/from/naixx/at/m3u8/"
-      },
-      "timeout": 10
-    },
-	
+  "type": 1,
+  "api": "https://Naixxzy.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://Naixxzy.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 {
   "key": "CK百货",
   "name": "CK百货",
@@ -274,93 +262,105 @@
 	{
       "key": "桃花资源网",
       "name": "桃花资源网",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://thzy1.me/api.php/provide/vod/from/thm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://thzy1.me/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://thzy1.me/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "大奶子资源",
       "name": "大奶子资源",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://apidanaizi.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://apidanaizi.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "搜av资源网",
       "name": "搜av资源网",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://api.souavzyw.net/api.php/provide/vod/from/souav/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://api.souavzyw.net/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://api.souavzyw.net/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "番茄资源网",
       "name": "番茄资源网",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://fqzy.me/api.php/provide/vod/from/fqm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://fqzy.me//api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://fqzy.me//api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "优优资源网",
       "name": "优优资源网",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://yytv1.cc/api.php/provide/vod/from/dplayer/at/m3u8/"
-      },
-      "timeout": 10
-    },
+  "type": 1,
+  "api": "https://yytv1.cc/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://yytv1.cc/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
     {
 	      "key": "百万资源网",
       "name": "百万资源网",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://api.bwzyz.com/api.php/provide/vod/from/bwm3u8/at/m3u8/"
-      },
-      "timeout": 10
-    }
+  "type": 1,
+  "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+}
   ],
   "parses": [
     {
