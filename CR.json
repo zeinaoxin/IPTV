@@ -3,6 +3,24 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://pic1.imgdb.cn/item/69d3c7a180f163db1465d0c5.gif",
   "sites": [
+  
+{
+  "key": "乐播资源",
+  "name": "乐播资源",
+  "type": 1,
+  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
   {
   "key": "JKUN资源站",
   "name": "JKUN资源站",
@@ -35,23 +53,6 @@
       },
       "timeout": 10
     },
-{
-  "key": "乐播资源",
-  "name": "乐播资源",
-  "type": 1,
-  "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=class",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-    "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list"
-  },
-  "timeout": 20,
-  "playerType": 0,
-  "format": "json",
-  "uid": ""
-},
 {
   "key": "鲨鱼资源",
   "name": "鲨鱼资源",
@@ -252,21 +253,24 @@
       },
       "timeout": 10
     },
-	{
-      "key": "CK百货资源",
-      "name": "CK百货资源",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Caiji",
-        "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/"
-      },
-      "timeout": 10
-    },
+	
+{
+  "key": "CK百货",
+  "name": "CK百货",
+  "type": 1,
+  "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/?ac=class",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+    "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/?ac=list"
+  },
+  "timeout": 20,
+  "playerType": 0,
+  "format": "json",
+  "uid": ""
+},
 	{
       "key": "桃花资源网",
       "name": "桃花资源网",
